@@ -1,0 +1,11 @@
+build*
+*.min.*
+app/assets
+node_modules/*
+build
+coverage
+internals
+server
+app/external/*
+infra/*
+.git/

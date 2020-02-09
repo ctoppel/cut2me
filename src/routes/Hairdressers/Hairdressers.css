@@ -1,0 +1,10 @@
+.hairdressers {
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center;
+  align-items: center; */
+  flex: 1;
+  background: url(../../high-end-salon.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
