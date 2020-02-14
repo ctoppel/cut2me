@@ -37,7 +37,6 @@ const LocationSearchInput = () => {
               )}
               {suggestions.map(suggestion => {
                 const { active, id, matchedSubstrings, formattedSuggestion: { mainText, secondaryText }} = suggestion
-                console.log(suggestion)
                 const className = active
                   ? 'suggestion-item-active'
                   : 'suggestion-item'

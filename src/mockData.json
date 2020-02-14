@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "firstName": "Mike",
+    "lastName": "Johnson",
+    "gender": "male",
+    "location": "Culver City, CA",
+    "bio": "I have been a hairdresser for over 12 years and love creating new pieces of art on people's heads!",
+    "imgUrl": "https://cdn.shopify.com/s/files/1/0071/3637/8998/files/barber-prepared-to-give-a-haircut.jpg?15590791694786014593",
+    "imgUrl2": "https://www.storytrender.com/wp-content/uploads/2017/11/16_CATERS_RAINBOW_BEARDS_12-768x620.jpg",
+    "price": 3500,
+    "visitCount": 13,
+    "rating": 4.6
+  },
+  {
+    "id": 2,
+    "firstName": "Janet",
+    "lastName": "Smith",
+    "gender": "female",
+    "location": "Culver City, CA",
+    "bio": "If you need a haircut, I am your girl! :-) I love cutting hair!",
+    "imgUrl": "https://cdn.shopify.com/s/files/1/0071/3637/8998/files/barber-prepared-to-give-a-haircut.jpg?15590791694786014593",
+    "imgUrl2": "https://www.eharmony.com/dating-advice/wp-content/uploads/2013/09/dating-a-hairdresser-550x330.jpg",
+    "price": 4700,
+    "visitCount": 2,
+    "rating": 4.5
+  },
+  {
+    "id": 3,
+    "firstName": "Gordon",
+    "lastName": "Belford",
+    "gender": "male",
+    "location": "Culver City, CA",
+    "bio": "Who needs a haircut?!",
+    "imgUrl": "https://cdn.shopify.com/s/files/1/0071/3637/8998/files/barber-prepared-to-give-a-haircut.jpg?15590791694786014593",
+    "imgUrl2": "https://image.freepik.com/free-photo/portrait-male-hairdresser-with-razor_23-2147839800.jpg",
+    "price": 5300,
+    "visitCount": 4,
+    "rating": 4.8
+  },
+  {
+    "id": 4,
+    "firstName": "Siri",
+    "lastName": "Applestein",
+    "gender": "female",
+    "location": "Culver City, CA",
+    "bio": null,
+    "imgUrl": "https://cdn.shopify.com/s/files/1/0071/3637/8998/files/barber-prepared-to-give-a-haircut.jpg?15590791694786014593",
+    "imgUrl2": "https://keyassets-p2.timeincuk.net/wp/prod/wp-content/uploads/sites/50/2015/09/how-to-break-up-hairdresser.jpg",
+    "price": 2300,
+    "visitCount": 1,
+    "rating": 5.0
+  },
+  {
+    "id": 5,
+    "firstName": "Goodwin",
+    "lastName": "Blanton",
+    "gender": "male",
+    "location": "Culver City, CA",
+    "bio": "Have you ever wondered what a good haircut really is? Well stop asking yourself that ridiculous question and see for yourself by booking an appointment with me!",
+    "imgUrl": "https://cdn.shopify.com/s/files/1/0071/3637/8998/files/barber-prepared-to-give-a-haircut.jpg?15590791694786014593",
+    "imgUrl2": "https://cdn.shopify.com/s/files/1/0071/3637/8998/files/barber-prepared-to-give-a-haircut.jpg?15590791694786014593",
+    "price": 14900,
+    "visitCount": 27,
+    "rating": 4.3
+  },
+  {
+    "id": 6,
+    "firstName": "Marissa",
+    "lastName": "Louvre",
+    "gender": "female",
+    "location": "Culver City, CA",
+    "bio": "I have many years experience and cut hair good. I am from Russia originally and try make good business here in America.",
+    "imgUrl": "https://cdn.shopify.com/s/files/1/0071/3637/8998/files/barber-prepared-to-give-a-haircut.jpg?15590791694786014593",
+    "imgUrl2": "https://image.freepik.com/free-photo/young-woman-isolated-blue-with-hairdresser-barber-dress-pointing-side_1368-68243.jpg",
+    "price": 1800,
+    "visitCount": 8,
+    "rating": 4.9
+  }
+]

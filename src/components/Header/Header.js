@@ -1,8 +1,8 @@
 import React, { useState } from 'react'
 import { Popup, Button, Menu, Input, Label } from 'semantic-ui-react'
 import './Header.css'
-import logo from '../../logo.svg'
-import cut2me_text from '../../cut2me_text.png'
+import logo from '../../images/logo.svg'
+import cut2me_text from '../../images/cut2me_text.png'
 import { Link } from 'react-router-dom'
 
 const Header = () => {
