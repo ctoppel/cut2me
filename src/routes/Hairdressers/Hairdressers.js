@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { Link, useRouteMatch } from "react-router-dom"
-import { Grid, Card, Image, Icon } from 'semantic-ui-react'
+import { Grid, Card, Image, Icon, Button } from 'semantic-ui-react'
 import './Hairdressers.css'
 
 import hairdressers from "../../mockData.json"
@@ -26,12 +26,13 @@ const Hairdressers = () => {
           <Grid.Column key={id}>
             <Link to={`${url}/${id}`}>
               <Card fluid>
-                  <Image src={imgUrl} wrapped ui={false} size="small"/>
-                  <Card.Content>
-                    <Card.Header>{`${firstName} ${lastName}`}</Card.Header>
-                    <Card.Meta>{location}</Card.Meta>
-                    <Card.Description>{bio}</Card.Description>
-                  </Card.Content>
+                <Image src={imgUrl} wrapped ui={false} size="small"/>
+                <Card.Content>
+                  <Card.Header>{`${firstName} ${lastName}`}</Card.Header>
+                  <Card.Meta>{location}</Card.Meta>
+                  <Card.Description>{bio}</Card.Description>
+                  <Button className="hairdresser-card-button" fluid size="tiny" color="teal">Book</Button>
+                </Card.Content>
                 <Card.Content extra>
                   <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}> 
                     <div>{`$${price/100}`}</div>

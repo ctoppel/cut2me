@@ -1,4 +1,4 @@
-.hairdressers {
+.hairdresser {
   /* display: flex;
   flex-wrap: wrap;
   justify-content: center; */
@@ -23,10 +23,6 @@
 .ui.card>.content>.meta+.description {
   height: 57px;
   overflow: auto;
-}
-
-.hairdresser-card-button {
-  margin-top: 1em !important;
 }
 
 /* .ui.card {

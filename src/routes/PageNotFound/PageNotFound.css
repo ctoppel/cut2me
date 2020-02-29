@@ -1,0 +1,14 @@
+.page-not-found-container {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: black;
+  color: white;
+}
+
+.page-not-found-number {
+  font-size: 200px;
+  line-height: 200px;
+}
