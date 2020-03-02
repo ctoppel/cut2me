@@ -16,6 +16,7 @@
 .home-middle-section {
   flex: 4;
   align-self: center;
+  padding: 0 11px;
 }
 
 .home-lower-section {

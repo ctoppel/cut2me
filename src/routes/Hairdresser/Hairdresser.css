@@ -25,6 +25,27 @@
   overflow: auto;
 }
 
+.portfolio {
+  width: 100%;
+  height: 650px;
+  display: flex;
+  justify-content: center;
+}
+
+/* @media only screen and (min-width: 1920px) {
+  .portfolio {
+    width: 100%;
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+    height: 650px;
+  }
+} */
+
+/* img {
+  filter: grayscale();
+} */
+
 /* .ui.card {
   margin: 1em;
 }
